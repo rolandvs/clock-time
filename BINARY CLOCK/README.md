@@ -4,7 +4,6 @@ This repository is a binary clock using **PyQt5** and as such a demo of using "Q
 
 ![binary clock](doc/bin_clock.png)
 
-
 The clock uses unicode characters to form a binary clock display. The clock shows the current time in binary format using colored circles for bits.
 
 By setting `ReadableClock` to `True`, the clock will also display the current time below the binary representation.
@@ -15,12 +14,9 @@ The size is set to accomodate a round 800x800 LCD display used on a Raspberry Pi
 
 Using `<ctrl-c>` is handled differently in PyQt5, therefore the `signal` module is added.
 
-    **Author:** Roland van Straten
-    **License:** MIT License
-    **Date:** 2024-06-15
 
 ## Install
-Ideally setup a directory with the necessary libraries using `venv`. Following a short way  to install and use it:
+Ideally setup a directory with the necessary libraries using `venv`. Following a short way to install and use it:
 
 ```bash
 $ mkdir test
