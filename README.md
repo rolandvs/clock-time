@@ -17,6 +17,6 @@ Any improvement or bug: you are free to create an issue or pull request.
 More clocks to follow like:
 
 - [LUDIEK](https://www.match-makers.eu/blog/ludiek/)
-- [Binary LED Clock]() using WS2812 leds
+- [Embedded Binary Clock](Embedded%20Binary%20Clock/) using WS2812 leds
 - Analog Clock with two hands for a round 800x800 LCD.
 
